@@ -10,6 +10,5 @@
 
 執行畫面
 -
-
-
+<img width="223" alt="Screenshot 2022-08-23 140806" src="https://user-images.githubusercontent.com/96730369/186086173-fefe52e4-98cd-444e-b4fc-153b01dede79.png">
 
